@@ -1,8 +1,5 @@
 # SYSC4001_A2_P3
 
-# SYSC4001_A1
-
-
 # Contents:
   - interrupts.cpp: CPU simulation program
   - interrupts.hpp: helper functions for simulator
